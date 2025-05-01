@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ro-grafd)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nightking_af)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ASSaASSin) 
-[![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/rohitbhagatkar940/) 
+[![Codeforces](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/rohitbhagatkar940/) 
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
